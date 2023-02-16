@@ -1,7 +1,7 @@
 # MSE11 - Digital Image and Video Processing
 
-## Học Viên: Nguyễn Văn Quang
-## MSHV: 22MS
+Học Viên: Nguyễn Văn Quang
+MSHV: 22MSE23070
 
 
 ## Homework 01
